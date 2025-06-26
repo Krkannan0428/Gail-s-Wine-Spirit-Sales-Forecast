@@ -1,0 +1,15 @@
+
+📊 EXECUTIVE SUMMARY - LIQUOR STORE FORECAST 2023
+
+• Historical Revenue (2018–2022): $2,779,576
+• Predicted 2023 Revenue (LSTM): $565,637
+• Inventory Investment Recommended: $329,243
+• Expected Profit: $183,223
+• Average Profit Margin: 40.0%
+• ROI: 55.6%
+
+RECOMMENDATIONS:
+• Boost stocking in peak months (Oct, Jul, Aug)
+• Focus on high-margin items like Gin
+• Ensure stock availability of top revenue drivers like Champagne
+• Maintain 20% safety stock buffer
