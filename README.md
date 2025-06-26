@@ -85,10 +85,3 @@ The dataset includes over 20,000+ transactions from 2018 to 2022, with the follo
 3. Review forecast charts and exportable reports.
 4. Adjust inventory plan assumptions as needed (growth %, safety stock).
 
----
-
-## 🏷️ Author
-
-**Raj Sun (RJS Inc.)**  
-Liquor Store Revenue Optimization – 2023 Planning  
-Built with Python, Pandas, TensorFlow, Plotly, and 💡 business logic
